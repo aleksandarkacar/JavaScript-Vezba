@@ -1,0 +1,4 @@
+[26.07.2023 10:48] Milan has aceppted Dragan Draganovic as his pacient 
+[26.07.2023 10:48] Dragan has aceppted Dr.Milan as his doctor 
+[26.07.2023 10:48] Dr.Milan made a appointment for a blood blood sugar for pacient Dragan 
+[26.07.2023 10:48] Blood Sugar Test Result: 137 for Dragan by Dr.Milan 
